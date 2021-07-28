@@ -3,7 +3,7 @@
 ## Description
 ### Experimental setup
 Stimuli were presented binocular on a computer monitor (resolution,
-1280  800; frame rate, 59 Hz) driven by an ATI Mobility Radeon HD
+1280 x 800; frame rate, 59 Hz) driven by an ATI Mobility Radeon HD
 3400 graphics card. Experiments were conducted in complete darkness
 except for the illumination by the monitor. The real-time virtual reality
 (VR) was created using Vizard 3.0 (Worldviz) and depicted an artificial
