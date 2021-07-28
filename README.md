@@ -30,15 +30,15 @@ the sample distance dp, movement was automatically stopped and disabled
 for a few seconds. Subsequently, participants were instructed to
 reproduce the perceived distance and indicate their final position via
 button press. In all trials, velocity was kept constant during movement,
-but changed randomly up to60% (scaling factor drawn from a normal
+but changed randomly up to plus/minus 60% (scaling factor drawn from a normal
 distribution) between production and reproduction phases to exclude
 time estimation strategies to solve the task. To test the effect of prior
 experience only, the settings for the three conditions were the same except
 that the sample distances and respective turning angles were drawn
 from three different underlying uniform sample distributions, specified
-as small displacements (dp[1, 2, 3, 4, 5, 6, 7, 8, 9, 10] m), intermediate
-displacements (dp  [5, 6, 7, 8, 9, 10, 11, 12, 13, 14] m) and large displacements
-range (dp  [10, 11, 12, 13, 14, 15, 16, 17, 18, 19] m). The
+as small displacements (dp = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] m), intermediate
+displacements (dp = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14] m) and large displacements
+range (dp = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19] m). The
 sample distributions of the three conditions were chosen to be partially
 overlapping to test whether displacement estimation behavior differed
 significantly for the same sample stimulus depending on the previously
@@ -50,12 +50,12 @@ angle estimation (AE) experiment were identical to the distance estimation
 (DE) experiment, with the following exception: participants turned
 on the spot to a previously indicated direction. Turning direction was
 kept constant between production and reproduction to preclude the use
-of external cues to solve the task. The sample turning angles, p, for the
+of external cues to solve the task. The sample turning angles, alpha_p, for the
 three prior experience conditions were in analogy drawn from three
-different sample distributions specified as small displacements (p[10,
-20, 30, 40, 50, 60, 70, 80, 90, 100]°), intermediate displacements (p 
+different sample distributions specified as small displacements (alpha_p = [10,
+20, 30, 40, 50, 60, 70, 80, 90, 100]°), intermediate displacements (alpha_p = 
 [50, 60, 70, 80, 90, 100, 110, 120, 130, 140]°) and large displacements range
-(p[90, 100, 110, 120, 130, 140, 150, 160, 170, 180]°).
+(alpha_p = [90, 100, 110, 120, 130, 140, 150, 160, 170, 180]°).
 All participants performed both types of experiment. The three conditions
 for DE and AE were tested in separate sessions, resulting in six test
 sessions per participant. Each session lasted between 45 and 60 min and
